@@ -29,6 +29,7 @@ function App () {
     {id : 15, amount : "$ 250000"},
     {id : 16, amount : "$ 500000"},
     {id : 17, amount : "$ 1000000"},
+    {id : 18, amount : "$ 10500000"},
     ].reverse();
 
     useEffect(() => {
